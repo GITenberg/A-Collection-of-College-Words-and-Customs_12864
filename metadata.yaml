@@ -1,5 +1,8 @@
 _repo: A-Collection-of-College-Words-and-Customs_12864
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hall, Benjamin Homer
@@ -10,6 +13,8 @@ creator:
 description: Cover; Front matter; Title page; Copyright page; Body matter; Introduction;
   A; B; C; D; E; F; G; H; I; J; K; L; M; N; O; P; Q; R; S; T; U; V; W; Y; List Of
   American Colleges; Footnotes;
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12864#A-Collection-of-College-Words-and-Customs
 gutenberg_issued: '2004-07-09'
 gutenberg_type: Text
 identifiers:
